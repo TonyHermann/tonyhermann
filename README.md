@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PHP and MySQL**
 
-- ⚡ Fun fact **love manga and time travel stuff**
+- ⚡ Fun fact **i love manga and time travel stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
