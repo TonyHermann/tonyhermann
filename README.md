@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tony Hermann</h1>
 - 🔭 I’m currently working on my portfolio **Portfolio**
 
-- 🌱 I’m currently learning **PHP and MySQL**
+- 🌱 I’m currently learning **PHP, MySQL and Angular**
 
-- ⚡ Fun fact **i love manga and time travel stuff**
+- ⚡ Fun fact: **i love manga and time travel stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
