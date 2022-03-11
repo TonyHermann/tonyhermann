@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony Hermann</h1>
-- 🔭 I’m currently working on my portfolio **Portfolio**
+- 🔭 Here's my [Portfolio](https://tonyhermann.github.io/portfolio/)
 
 - 🌱 I’m currently learning **PHP, MySQL and Angular**
 
