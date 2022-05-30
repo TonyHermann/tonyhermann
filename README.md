@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tony Hermann</h1>
 - 🔭 Here's my <a href="https://tonyhermann.github.io/portfolio/" target="_blank">[Portfolio]</a>
 
-- 🌱 I’m currently learning **PHP, MySQL and Angular**
+- 🌱 I’m currently working on my **New portfolio version**
+
+- 🌱 I’m currently learning **React, Typescript and Next.js**
 
 - ⚡ Fun fact: **i love manga and time travel stuff**
 
