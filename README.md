@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tony Hermann</h1>
+<h1 align="center">Tony Hermann</h1>
 - 🔭 Here's my <a href="https://tonyhermann.github.io/portfolio/" target="_blank">[Portfolio]</a>
 
 - 🌱 I’m currently working on my **New portfolio version**
