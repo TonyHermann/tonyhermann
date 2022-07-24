@@ -1,7 +1,5 @@
 <h1 align="center">Tony Hermann</h1>
-- 🔭 Here's my <a href="https://tonyhermann.github.io/portfolio/" target="_blank">[Portfolio]</a>
-
-- 🌱 I’m currently working on my **New portfolio version**
+- 🔭 Here's my <a href="https://portfolio-tonyhermann.vercel.app/" target="_blank">[Portfolio]</a>
 
 - 🌱 I’m currently learning **React, Typescript and Next.js**
 
