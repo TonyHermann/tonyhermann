@@ -1,7 +1,7 @@
 <h1 align="center">Tony Hermann</h1>
 - 🔭 Here's my <a href="https://portfolio-tonyhermann.vercel.app/" target="_blank">[Portfolio]</a>
 
-- 🌱 I’m currently learning **React, Typescript and Next.js**
+- 🌱 I’m currently learning **React and Typescript**
 
 - ⚡ Fun fact: **i love manga and time travel stuff**
 
